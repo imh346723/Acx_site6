@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: lightblue;
+    padding: 6px;
+    border-radius: 5px;
+}
+
+h1{
+    color: orange;
+    text-align: center;
+}
+
+footer p{
+    background-color: green;
+    color: aliceblue;
+    padding: 5px;
+}
+
+.pitard{
+    background-color: IndianRed;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+h2{
+    color: Blue;
+    font-size: 30px;
+}
